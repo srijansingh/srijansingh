@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hi 👋
 
-- 🔭 I’m currently working on <b>Reactjs, React Native Redux and Nodejs</b>
-- 🌱 I’m currently learning <b>C++</b>
-- 👯 I’m looking to collaborate on <b>Javascript</b> based project
-- 🤔 I’m looking for help with <b>Data Structure and Algorithm</b>
-- 💬 Ask me about working on live projects
-- 📫 How to reach me: Email : <a href="mailto:srijan.singh.1232@gmail.com">srijan.singh.1232@gmail.com</a>
-- 😄 Pronouns: <b>Srijan Singh</b>
+- <b>Programming Language :</b> C++, PHP and Javascript
+- <b>Clientside Web Technologies: ReactJs, NextJs, Redux, HTML and CSS </b>
+- <b>Frontend Libraries </b>:ReactJs, Material UI and Bootstrap
+- <b>Server Side Technologies: </b> Nodejs, PHP 
+- <b>Server Side Frameworks: </b>ExpressJs, Laravel
+- <b>Database: </b>SQL and MongoDB
+- <b>Mobile Application(Android) </b>React Native
+
+- Reach me at: Email : <a href="mailto:srijan.singh.1232@gmail.com">srijan.singh.1232@gmail.com</a>
+
 
