@@ -20,11 +20,10 @@
 
 ### Highlighted Projects
 
-- Grocery Supermarket Mobile Application <i>Android Platform</i><br/>
-- Price Comparision Website <i>Web Application</i>
-- Edgiav Blogging Website <i>Web Application</i>
-- Techronx Website <i>Web Application</i>
-- Ecommerce Multivendor Website <i>Web Application</i>
-- Social Media Music Platform <i>Website Application</i>
-
+##### Grocery Supermarket Mobile Application
+##### Price Comparision Website 
+##### Edgiav Blogging Website 
+##### Techronx Website 
+##### Ecommerce Multivendor Website 
+##### Social Media Music Platform 
 
