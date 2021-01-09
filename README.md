@@ -2,6 +2,9 @@
 
 My name is <b>Srijan Singh</b>, I am an ethusiastic software developer. I am very passionate about my work and I am experienced with demonstrated history of working in field of Full Stack Development. I have strong command in managing live projects as freelancer, leading team with result-oriented attitude.
 
+- Email : <a href="mailto:srijan.singh.1232@gmail.com">srijan.singh.1232@gmail.com</a>
+- Linkedin Profile : <a href="https://www.linkedin.com/in/srijansinghs/">https://www.linkedin.com/in/srijansinghs/</a>
+
 You can take an overview of my technology stack and highlighted project here.
 
 ### Technology Stack
@@ -19,8 +22,6 @@ You can take an overview of my technology stack and highlighted project here.
 - <b>Database: </b>SQL and MongoDB
 
 - <b>Mobile Application(Android) </b>React Native
-
-- Reach me at: Email : <a href="mailto:srijan.singh.1232@gmail.com">srijan.singh.1232@gmail.com</a>
 
 ## Highlighted Projects
 
