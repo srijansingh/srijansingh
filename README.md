@@ -1,4 +1,6 @@
-### Hi fellow developer,
+#### Hello fellows,
+
+My name is <b>Srijan Singh</b>, I am an 
 
 ### Technology Stack
 
@@ -27,3 +29,6 @@
 - Ecommerce Multivendor Website 
 - Social Media Music Platform 
 
+#### <a href="https://github.com/srijansingh?tab=projects">Click here to visit my project descriptions.</a>
+
+<i>Thank you</i>
