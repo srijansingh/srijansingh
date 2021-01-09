@@ -1,4 +1,4 @@
-### Hi felloW developer,
+### Hi fellow developer,
 
 ### Technology Stack
 
