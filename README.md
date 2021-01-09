@@ -18,12 +18,12 @@
 
 - Reach me at: Email : <a href="mailto:srijan.singh.1232@gmail.com">srijan.singh.1232@gmail.com</a>
 
-### Highlighted Projects
+## Highlighted Projects
 
-##### Grocery Supermarket Mobile Application
-##### Price Comparision Website 
-##### Edgiav Blogging Website 
-##### Techronx Website 
-##### Ecommerce Multivendor Website 
-##### Social Media Music Platform 
+- Grocery Supermarket Mobile Application
+- Price Comparision Website 
+- Edgiav Blogging Website 
+- Techronx Website 
+- Ecommerce Multivendor Website 
+- Social Media Music Platform 
 
