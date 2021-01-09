@@ -1,4 +1,6 @@
-### Hi 👋
+### Hi felloW developer,
+
+### Technology Stack
 
 - <b>Programming Language :</b> C++, PHP and Javascript
 
