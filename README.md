@@ -1,6 +1,8 @@
 #### Hello fellows,
 
-My name is <b>Srijan Singh</b>, I am an 
+My name is <b>Srijan Singh</b>, I am an ethusiastic fullstack web developer. I am very passionate about my work and I am experienced with demonstrated history of working in field of Full Stack Web Development. I have strong command in managing live projects as freelancer, leading team with result-oriented attitude.
+
+You can take an overview of my technology stack and highlighted project here.
 
 ### Technology Stack
 
@@ -29,6 +31,6 @@ My name is <b>Srijan Singh</b>, I am an
 - Ecommerce Multivendor Website 
 - Social Media Music Platform 
 
-#### <a href="https://github.com/srijansingh?tab=projects">Click here to visit my project descriptions.</a>
+<a href="https://github.com/srijansingh?tab=projects">Click here to visit my project descriptions.</a>
 
 <i>Thank you</i>
