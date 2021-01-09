@@ -1,4 +1,4 @@
-#### Hello fellows,
+#### Hii,
 
 My name is <b>Srijan Singh</b>, I am an ethusiastic fullstack web developer. I am very passionate about my work and I am experienced with demonstrated history of working in field of Full Stack Web Development. I have strong command in managing live projects as freelancer, leading team with result-oriented attitude.
 
