@@ -34,10 +34,15 @@ React Native
 ## Highlighted Projects
 
 🛒 **Grocery Supermarket Mobile Application**
+
 🔍 **Price Comparison Website**
+
 ✍️ **Edgiav Blogging Website**
+
 🚀 **Techronx Website**
+
 🛍️ **E-commerce Multivendor Website**
+
 🎵 **Social Media Music Platform**
 
 For more details and descriptions, visit my [Projects Repository](https://github.com/srijansingh?tab=projects).
