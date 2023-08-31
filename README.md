@@ -1,37 +1,47 @@
-#### Hii,
+# Hello, World! 👋
 
-My name is <b>Srijan Singh</b>, I am an enthusiastic software developer. I am very passionate about my work and I am experienced with demonstrated history of working in field of Full Stack Development with strong command in managing live projects as freelancer, leading team with result-oriented attitude.
+I'm **Srijan Singh**, an enthusiastic software developer with a strong passion for creating meaningful digital experiences. I thrive on challenges and have a proven track record in the world of Full Stack Development. As a freelancer, I've successfully managed live projects and led teams with a resolutely result-oriented approach.
 
-- Email : <a href="mailto:srijan.singh.1232@gmail.com">srijan.singh.1232@gmail.com</a>
-- Linkedin Profile : <a href="https://www.linkedin.com/in/srijansinghs/">https://www.linkedin.com/in/srijansinghs/</a>
+Connect with me:
+- 📧 Email: [srijan.singh.1232@gmail.com](mailto:srijan.singh.1232@gmail.com)
+- 💼 LinkedIn: [srijansinghs](https://www.linkedin.com/in/srijansinghs/)
 
-You can take an overview of my technology stack and highlighted project here.
+Explore my technology stack and highlighted projects below!
 
-### Technology Stack
+## Technology Stack
 
-- <b>Programming Language :</b> C++, PHP and Javascript
+💻 **Programming Languages:**
+C++, JavaScript
 
-- <b>Clientside Web Technologies: </b>ReactJs, NextJs, Redux, HTML and CSS 
+🌐 **Client-side Web Technologies:**
+ReactJS, Next.js, Redux, HTML, CSS, Typescript, AngularJS
 
-- <b>Frontend Libraries </b>:ReactJs, Material UI and Bootstrap
+🎨 **Frontend Libraries:**
+ReactJS, Material UI, Bootstrap
 
-- <b>Server Side Technologies: </b> Nodejs, PHP 
+🖥️ **Server-side Technologies:**
+Node.js, NestJS
 
-- <b>Server Side Frameworks: </b>ExpressJs, Laravel
+🚀 **Server-side Frameworks:**
+Express.js, NestJS
 
-- <b>Database: </b>SQL and MongoDB
+🗃️ **Databases:**
+SQL, MongoDB
 
-- <b>Mobile Application(Android) </b>React Native
+📱 **Mobile Application (Android):**
+React Native
 
 ## Highlighted Projects
 
-- Grocery Supermarket Mobile Application
-- Price Comparision Website 
-- Edgiav Blogging Website 
-- Techronx Website 
-- Ecommerce Multivendor Website 
-- Social Media Music Platform 
+🛒 **Grocery Supermarket Mobile Application**
+🔍 **Price Comparison Website**
+✍️ **Edgiav Blogging Website**
+🚀 **Techronx Website**
+🛍️ **E-commerce Multivendor Website**
+🎵 **Social Media Music Platform**
 
-<a href="https://github.com/srijansingh?tab=projects">Click here to visit my project descriptions.</a>
+For more details and descriptions, visit my [Projects Repository](https://github.com/srijansingh?tab=projects).
 
-<i>Thank you</i>
+Feel free to explore, contribute, and connect. Let's innovate together!
+
+*Thank you for visiting!* 🙌
