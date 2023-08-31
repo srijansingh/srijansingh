@@ -28,7 +28,7 @@ Express.js, NestJS
 🗃️ **Databases:**
 SQL, MongoDB
 
-📱 **Mobile Application (Android):**
+📱 **Mobile Application (Android/IOS):**
 React Native
 
 ## Highlighted Projects
