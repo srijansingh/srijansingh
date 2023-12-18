@@ -1,12 +1,13 @@
-# Hello, World! 👋
+# Greetings! 👋
 
 I'm **Srijan Singh**, an enthusiastic software developer with a strong passion for creating meaningful digital experiences. I thrive on challenges and have a proven track record in the world of Full Stack Development. As a freelancer, I've successfully managed live projects and led teams with a resolutely result-oriented approach.
 
-Connect with me:
+**Stay Connected:**
 - 📧 Email: [srijan.singh.1232@gmail.com](mailto:srijan.singh.1232@gmail.com)
-- 💼 LinkedIn: [srijansinghs](https://www.linkedin.com/in/srijansinghs/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/srijansinghs](https://www.linkedin.com/in/srijansinghs/)
+- 📚 Medium: [https://medium.com/@iamsrijan](https://medium.com/@iamsrijan)
 
-Explore my technology stack and highlighted projects below!
+**Explore my tech stack and standout projects below!**
 
 ## Technology Stack
 
@@ -45,8 +46,8 @@ React Native
 
 🎵 **Social Media Music Platform**
 
-For more details and descriptions, visit my [Projects Repository](https://github.com/srijansingh?tab=projects).
+For more details and project descriptions, visit my [Projects Repository](https://github.com/srijansingh?tab=projects).
 
-Feel free to explore, contribute, and connect. Let's innovate together!
+Feel free to explore, contribute, and let's innovate together!
 
-*Thank you for visiting!* 🙌
+*Thank you for dropping by!* 🙌
